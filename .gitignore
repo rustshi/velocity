@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <menu class="head">
+                    <a href="#" class="headLogo">Velocity</a>
+                    <ul class="headList">
+                        <li><a href="#" class="headItem">Home</a></li>
+                        <li><a href="#" class="headItem">Contact</a></li>
+                    </ul>
+                </menu>
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="container">
+                <h1 class="contentTitle">This is Velocity</h1>
+                <div class="contentBtns">
+                    <a href="#" class="contentBtnsLogin">sign up</a>
+                    <a href="#" class="contentBtnsLearn">Learn more</a>
+                </div>
+            </div>
+        </div>
+
+		 
+        <div class="ben">
+            <div class="container">
+                <div class="benTitle title">what we do</div>
+                <div class="benSub subtitle">
+                    This is some text inside of a div block.
+                </div>
+                <div class="benBox">
+                    <div class="benItem">
+                        <img
+                            src="images/item1.jpg"
+                            alt="image"
+                            class="benItemImg"
+                        />
+                        <div class="benItemImgTitle">Graphic Design</div>
+                        <div class="benItemImgText">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique.
+                        </div>
+                    </div>
+                    <div class="benItem">
+                        <img
+                            src="images/item2.png"
+                            alt="image"
+                            class="benItemImg"
+                        />
+                        <div class="benItemImgTitle">Awesome code</div>
+                        <div class="benItemImgText">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique.
+                        </div>
+                    </div>
+                    <div class="benItem">
+                        <img
+                            src="images/item3.png"
+                            alt="image"
+                            class="benItemImg"
+                        />
+                        <div class="benItemImgTitle">free template</div>
+                        <div class="benItemImgText">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		
+        <div class="srvc">
+            <div class="container">
+                <div class="srvcTitle title">services</div>
+                <div class="srvcSub subtitle">
+                    This is some text inside of a div block.
+                </div>
+                <div class="srvcBox">
+                    <div class="srvcItem">
+                        <img
+                            src="images/services1.jpg"
+                            alt="image"
+                            class="srvcItemImg"
+                        />
+                        <div class="srvcItemTitle">SERVICES one</div>
+                        <div class="srvcItemText">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique.Lorem ipsum dolor sit amet, consectetur
+                            adipiscing elit. Suspendisse varius.
+                        </div>
+                        <a href="#" class="srvcItemBtn">Learn more</a>
+                    </div>
+                    <div class="srvcItem">
+                        <img
+                            src="images/services2.jpg"
+                            alt="image"
+                            class="srvcItemImg"
+                        />
+                        <div class="srvcItemTitle">SERVICES two</div>
+                        <div class="srvcItemText">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique.Lorem ipsum dolor sit amet, consectetur
+                            adipiscing elit. Suspendisse varius.
+                        </div>
+                        <a href="#" class="srvcItemBtn">Learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="container">
+                <div class="boxTitle title">Tab Section</div>
+                <div class="boxSub subtitle">
+                    This is some text inside of a div block.
+                </div>
+                <div class="boxBtns">
+                    <button class="boxBtn1">Tab Button 1</button>
+                    <button class="boxBtn2">Tab Button 2</button>
+                    <button class="boxBtn3">Tab Button 3</button>
+                </div>
+                <div class="boxItem">
+                    <img
+                        src="images/tab1.jpg"
+                        alt="image"
+                        class="boxItemImage"
+                    />
+                    <div class="boxItemTitle">Some Title Here1</div>
+                    <div class="boxItemText">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique.
+                        </p>
+                        <p>
+                            Duis cursus, mi quis viverra ornare, eros dolor
+                            interdum nulla, ut commodo diam libero vitae erat.
+                        </p>
+                        <p>
+                            Aenean faucibus nibh et justo cursus id rutrum lorem
+                            imperdiet. Nunc ut sem vitae risus tristique
+                            posuere.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		
+        <div class="info">
+            <div class="container">
+                <div class="infoInner">
+                    <div class="infoAbout">
+                        <h3 class="infoTitle">about velocity</h3>
+                        <div class="infoText">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit. Suspendisse varius enim in eros elementum
+                            tristique. Duis cursus, mi quis viverra ornare, eros
+                            dolor interdum nulla, ut commodo diam libero vitae
+                            erat.
+                        </div>
+                    </div>
+                    <div class="infoLinks">
+						<h3 class="infoLinksTitle">useful links</h3>
+                        <ul class="infoLinksList">
+                            <li><a href="#">Phasellus gravida semper nisi</a></li>
+                            <li><a href="#">Suspendisse nisl elit</a></li>
+                            <li><a href="#">Dellentesque habitant morbi</a></li>
+                            <li><a href="#">Etiam sollicitudin ipsum</a></li>
+                        </ul>
+                    </div>
+					<div class="infoSocial">
+						<h3 class="infoSocialTitle">social</h3>
+						<ul class="infoSocialList">
+							<li><a class="twitter" href="#">Twitter</a></li>
+							<li><a class="facebook" href="#">Facebook</a></li>
+							<li><a class="pinterest" href="#">Pinterest</a></li>
+							<li><a class="google" href="#">Google</a></li>
+							<li><a class="webflow" href="#">Webflow</a></li>
+						</ul>
+					</div>
+                </div>
+            </div>
+        </div>
+
+		
+		<footer class="footer">
+			<div class="container">
+					Copyright Velocity Inc. Made in Webflow.
+			</div>
+		</footer>
+    </body>
+</html>
